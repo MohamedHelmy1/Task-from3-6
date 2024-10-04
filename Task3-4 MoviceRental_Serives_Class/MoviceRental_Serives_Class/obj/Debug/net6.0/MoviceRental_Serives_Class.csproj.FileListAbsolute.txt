@@ -1,0 +1,15 @@
+F:\project\BackEnd Project\Traning\MoviceRental_Serives_Class\MoviceRental_Serives_Class\bin\Debug\net6.0\MoviceRental_Serives_Class.exe
+F:\project\BackEnd Project\Traning\MoviceRental_Serives_Class\MoviceRental_Serives_Class\bin\Debug\net6.0\MoviceRental_Serives_Class.deps.json
+F:\project\BackEnd Project\Traning\MoviceRental_Serives_Class\MoviceRental_Serives_Class\bin\Debug\net6.0\MoviceRental_Serives_Class.runtimeconfig.json
+F:\project\BackEnd Project\Traning\MoviceRental_Serives_Class\MoviceRental_Serives_Class\bin\Debug\net6.0\MoviceRental_Serives_Class.dll
+F:\project\BackEnd Project\Traning\MoviceRental_Serives_Class\MoviceRental_Serives_Class\bin\Debug\net6.0\MoviceRental_Serives_Class.pdb
+F:\project\BackEnd Project\Traning\MoviceRental_Serives_Class\MoviceRental_Serives_Class\obj\Debug\net6.0\MoviceRental_Serives_Class.GeneratedMSBuildEditorConfig.editorconfig
+F:\project\BackEnd Project\Traning\MoviceRental_Serives_Class\MoviceRental_Serives_Class\obj\Debug\net6.0\MoviceRental_Serives_Class.AssemblyInfoInputs.cache
+F:\project\BackEnd Project\Traning\MoviceRental_Serives_Class\MoviceRental_Serives_Class\obj\Debug\net6.0\MoviceRental_Serives_Class.AssemblyInfo.cs
+F:\project\BackEnd Project\Traning\MoviceRental_Serives_Class\MoviceRental_Serives_Class\obj\Debug\net6.0\MoviceRental_Serives_Class.csproj.CoreCompileInputs.cache
+F:\project\BackEnd Project\Traning\MoviceRental_Serives_Class\MoviceRental_Serives_Class\obj\Debug\net6.0\MoviceRental_Serives_Class.dll
+F:\project\BackEnd Project\Traning\MoviceRental_Serives_Class\MoviceRental_Serives_Class\obj\Debug\net6.0\refint\MoviceRental_Serives_Class.dll
+F:\project\BackEnd Project\Traning\MoviceRental_Serives_Class\MoviceRental_Serives_Class\obj\Debug\net6.0\MoviceRental_Serives_Class.pdb
+F:\project\BackEnd Project\Traning\MoviceRental_Serives_Class\MoviceRental_Serives_Class\obj\Debug\net6.0\MoviceRental_Serives_Class.genruntimeconfig.cache
+F:\project\BackEnd Project\Traning\MoviceRental_Serives_Class\MoviceRental_Serives_Class\obj\Debug\net6.0\ref\MoviceRental_Serives_Class.dll
+F:\project\BackEnd Project\Traning\MoviceRental_Serives_Class\MoviceRental_Serives_Class\obj\Debug\net6.0\MoviceRental_Serives_Class.sourcelink.json
